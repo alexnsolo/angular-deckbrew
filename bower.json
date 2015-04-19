@@ -1,0 +1,23 @@
+{
+  "name": "angular-deckbrew",
+  "version": "0.0.1",
+  "homepage": "https://github.com/civilframe/angular-deckbrew",
+  "authors": [
+    "Alex Solo <alex.n.solo@gmail.com>"
+  ],
+  "description": "Angular implementation for the deckbrew API.",
+  "main": "deckbrew.js",
+  "keywords": [
+    "mtg",
+    "deckbrew",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
